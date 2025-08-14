@@ -2,10 +2,10 @@
 
 I am **Alden Shin-Culhane**.
 
-- 🎓 Full-stack and iOS developer with a **BSc in Computer Science, Co-op** from **Toronto Metropolitan University**
-- 💼 Over **20 months of professional development experience** and **6 years of employment**, including **internships in iOS, frontend, and backend development**
+- 🎓 Full-stack and Mobile Developer with a **BSc in Computer Science, Co-op** from **Toronto Metropolitan University**
+- 💼 Over **20 months of professional development experience** and **6 years of employment**, including **internships in mobile app, frontend, and backend development**
 - 🧠 8+ years of personal and academic projects in software development
-- ⚙️ I build clean, fast, and scalable tools, from internal APIs to high-traffic websites and top-rated iOS apps
+- ⚙️ I build clean, fast, and scalable tools, from internal APIs to high-traffic websites and top-rated mobile apps
 
 ## 📫 Connect with me
 
@@ -19,23 +19,26 @@ I am **Alden Shin-Culhane**.
 | 📦 Repository | 📄 Description |
 |---------------|----------------|
 | [📘 CourseWork](https://github.com/AldenShinCulhane/CourseWork) | University coursework including Python, C, C++, Java, HTML, and more |
-| [☕ Co-op-Work-Term-2022-2023](https://github.com/AldenShinCulhane/Co-op-Work-Term-2022-2023) | Backend Java development projects from my co-op term, including hotel data pipelines and Excel exports |
+| [☕ Co-op-Work-Term-2022-2023](https://github.com/AldenShinCulhane/Co-op-Work-Term-2022-2023) | Backend Java development projects from my Co-op term, including hotel data pipelines and Excel exports |
 
 ---
 
 ## 💻 Technical Skills
 
 **Languages**:  
-Java, Swift, C, Python, HTML, CSS, JavaScript, TypeScript, SQL, jOOQ, C++, C#, Objective-C, Groovy, YAML, Dart, PHP, Perl, Bash, Ruby, XML, Rust, Kotlin, Lisp, Haskell
+Java, Swift, C, Python, HTML, CSS, JavaScript, TypeScript, SQL, jOOQ, C++, C#, Objective-C, Groovy, YAML, Visual Basic, Dart, GLSL, CGI, XML, Bash, PHP, Prolog, Perl, Ruby, Rust, Kotlin, Lisp, JSON, and Haskell
 
 **Frameworks & Libraries**:  
-SwiftUI, UIKit, jQuery, Node.js, AngularJS, Flutter, Spring Framework, ASP.NET, .NET Core, Maven, Elasticsearch, Kibana
+SwiftUI, UIKit, jQuery, Flutter, Spring, ASP.NET, .NET Core, Vue.js, Django, Node.js, RESTful APIs, AngularJS, Maven, Elasticsearch, and Kibana
 
-**Developer Tools & IDEs**:  
-MySQL, PostgreSQL, Oracle SQL, Vim, Azure, Docker, Swagger API, Postman, Project Lombok, Jenkins, Jira, Kubernetes, DBeaver, PowerShell, Git, VS Code, Visual Basic, Xcode, IntelliJ IDEA, PyCharm, Eclipse
+**Developer Tools**:  
+OpenGL, MySQL, PostgreSQL, Oracle SQL, NoSQL, Microsoft Azure, Jupyter, Docker, Swagger, Postman, Lombok, Vim, Jenkins, Jira, Kubernetes, PowerShell, Git, GitHub, GitLab, DBeaver, and MongoDB
+
+**IDEs**:
+Microsoft Visual Studio Code, Xcode, Android Studio, JetBrains IntelliJ IDEA, PyCharm and Eclipse
 
 **Operating Systems**:  
-MacOS, Windows, Linux, Unix
+macOS, iOS, Android, Windows, Linux, and Unix
 
 ---
 
