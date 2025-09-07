@@ -26,16 +26,16 @@ I am **Alden Shin-Culhane**.
 ## 💻 Technical Skills
 
 **Languages**:  
-Java, Swift, C, Python, HTML, CSS, JavaScript, TypeScript, SQL, jOOQ, C++, C#, Objective-C, Groovy, YAML, Visual Basic, Dart, GLSL, CGI, XML, Bash, PHP, Prolog, Perl, Ruby, Rust, Kotlin, Lisp, JSON, and Haskell
+Java, Python, JavaScript, TypeScript, Swift, Kotlin, Objective-C, C#, SQL, HTML, CSS, JSON, XML, Bash, C, C++, Groovy, YAML, Dart, PHP, Ruby, Rust, Visual Basic, Perl, Prolog, Lisp, GLSL, CGI, Haskell, R, SAS
 
 **Frameworks & Libraries**:  
-SwiftUI, UIKit, jQuery, Flutter, Spring, ASP.NET, .NET Core, Vue.js, Django, Node.js, RESTful APIs, AngularJS, Maven, Elasticsearch, and Kibana
+RESTful APIs, Spring, .NET Core, ASP.NET, Node.js, Django, SwiftUI, UIKit, Jetpack Compose, Flutter, React, Vue.js, AngularJS, jQuery, Maven, jOOQ, Elasticsearch, Kibana, Pandas, NumPy, Advanced Excel
 
 **Developer Tools**:  
-OpenGL, MySQL, PostgreSQL, Oracle SQL, NoSQL, Microsoft Azure, Jupyter, Docker, Swagger, Postman, Lombok, Vim, Jenkins, Jira, Kubernetes, PowerShell, Git, GitHub, GitLab, DBeaver, and MongoDB
+Git, GitHub, GitLab, Docker, Kubernetes, Microsoft Azure, Swagger, Postman, MongoDB, MySQL, PostgreSQL, Oracle SQL, NoSQL, Jira, Confluence, Jenkins, DBeaver, Jupyter, OpenGL, Lombok, Vim, PowerShell, Minitab, ETL, Power BI, Tableau, Crystal Reports, Google Sheets, MS Visio
 
 **IDEs**:
-Microsoft Visual Studio Code, Xcode, Android Studio, JetBrains IntelliJ IDEA, PyCharm and Eclipse
+Microsoft Visual Studio Code, Xcode, Android Studio, JetBrains IntelliJ IDEA, PyCharm, Eclipse
 
 **Operating Systems**:  
 macOS, iOS, Android, Windows, Linux, and Unix
