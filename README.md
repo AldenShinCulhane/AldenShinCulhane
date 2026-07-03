@@ -43,16 +43,3 @@ Cursor, Microsoft Visual Studio Code, Xcode, Android Studio, JetBrains IntelliJ 
 
 **Operating Systems**:  
 macOS, iOS, Android, Windows, Linux, and Unix
-
----
-
-## 📊 Most Used Languages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img alt="Top Languages by Repo" src="./profile-summary-card-output/default/1-repos-per-language.svg" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <img alt="Top Languages by Commit" src="./profile-summary-card-output/default/2-most-commit-language.svg" width="49%">
-</picture>
