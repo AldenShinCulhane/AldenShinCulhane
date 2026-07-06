@@ -5,7 +5,7 @@ I am **Alden Shin-Culhane**.
 - 🎓 **Full Stack Software Engineer** with a **BSc in Computer Science, Co-op** from **Toronto Metropolitan University**
 - 💼 Over **2 years of professional development experience** spanning **full-stack, agentic AI & LLM systems, mobile, DevOps, and cloud infrastructure**
 - 🤖 I work **AI-natively** — **Claude Code** and **OpenAI Codex** as daily drivers — building **multi-agent code-review systems**, **production RAG features**, and **realtime speech-to-speech voice agents**
-- 🚀 At Inductive Solution: absorbed the responsibilities of **three engineers from day one** — **2,647 GitHub contributions** in my first 4 months, **508 PRs** with **97% merged after human review**, and a **production voice agent** serving paying restaurants
+- 🚀 At Inductive Solution: **2,647 GitHub contributions** in my first 4 months, **508 PRs** with **97% merged after human review**, and a **production voice agent** serving paying restaurants
 - ☁️ Production-grade operations: **AWS**, **Azure**, **Docker**, **CI/CD (GitHub Actions)**, staging & production server management, **10+ P0 incidents resolved**
 - 🧠 8+ years of personal and academic projects in software development
 - ⚙️ I build clean, fast, and scalable tools, from internal APIs to high-traffic websites and top-rated mobile apps
