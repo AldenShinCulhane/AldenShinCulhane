@@ -3,9 +3,10 @@
 I am **Alden Shin-Culhane**.
 
 - 🎓 **Full Stack Software Engineer** with a **BSc in Computer Science, Co-op** from **Toronto Metropolitan University**
-- 💼 Over **2 years of professional development experience** spanning **full-stack, mobile, DevOps, and cloud infrastructure**
-- 🤖 Proficient in **AI-assisted engineering** — daily driver of **Claude Code** and **OpenAI Codex**, with deep experience in **prompt engineering** and building **multi-agent automation pipelines** for code review, CI, and deployment
-- ☁️ Production-grade operations: **AWS**, **Azure**, **Docker**, **CI/CD (GitHub Actions, Jenkins)**, staging & production server management, observability (**OpenTelemetry**)
+- 💼 Over **2 years of professional development experience** spanning **full-stack, agentic AI & LLM systems, mobile, DevOps, and cloud infrastructure**
+- 🤖 I work **AI-natively** — **Claude Code** and **OpenAI Codex** as daily drivers — building **multi-agent code-review systems**, **production RAG features**, and **realtime speech-to-speech voice agents**
+- 🚀 At Inductive Solution: absorbed the responsibilities of **three engineers from day one** — **2,647 GitHub contributions** in my first 4 months, **508 PRs** with **97% merged after human review**, and a **production voice agent** serving paying restaurants
+- ☁️ Production-grade operations: **AWS**, **Azure**, **Docker**, **CI/CD (GitHub Actions)**, staging & production server management, **10+ P0 incidents resolved**
 - 🧠 8+ years of personal and academic projects in software development
 - ⚙️ I build clean, fast, and scalable tools, from internal APIs to high-traffic websites and top-rated mobile apps
 
@@ -20,7 +21,7 @@ I am **Alden Shin-Culhane**.
 
 | 📦 Repository | 📄 Description |
 |---------------|----------------|
-| [🔍 job-agent](https://github.com/AldenShinCulhane/job-agent) | Automated job search pipeline that discovers, scores, and applies to opportunities using multi-provider LLMs and Playwright |
+| [🔍 job-agent](https://github.com/AldenShinCulhane/job-agent) | Agentic job search pipeline that discovers and scores opportunities, generating tailored resume and cover-letter drafts with multi-provider LLM failover and Playwright |
 | [🎫 ticket-assist](https://github.com/AldenShinCulhane/ticket-assist) | AI-powered customer support tool that drafts professional replies and generates structured ticket metadata using Claude |
 | [☕ Co-op-Work-Term-2022-2023](https://github.com/AldenShinCulhane/Co-op-Work-Term-2022-2023) | Backend Java development projects from my Co-op term, including hotel data pipelines and Excel exports |
 | [📘 CourseWork](https://github.com/AldenShinCulhane/CourseWork) | University coursework including Python, C, C++, Java, HTML, and more |
@@ -30,16 +31,16 @@ I am **Alden Shin-Culhane**.
 ## 💻 Technical Skills
 
 **Languages**:  
-Java, Python, JavaScript, TypeScript, Swift, Kotlin, Objective-C, C#, SQL, HTML, CSS, JSON, XML, Bash, C, C++, Groovy, YAML, LaTeX, Dart, PHP, Ruby, Rust, Visual Basic, Perl, Prolog, Lisp, GLSL, CGI, Haskell, R, SAS
+Python, TypeScript, JavaScript, Java, Swift, Kotlin, C#, SQL, C++, Rust, Bash, HTML, CSS
 
-**Frameworks & Libraries**:  
-RESTful APIs, Spring, .NET Core, ASP.NET, Node.js, Django, FastAPI, SwiftUI, UIKit, Jetpack Compose, Flutter, React, React Native, Expo, Next.js, Vue.js, AngularJS, jQuery, Maven, jOOQ, Elasticsearch, Kibana, Pandas, NumPy, Jest, Pytest, Playwright, Advanced Excel
+**Frontend/Mobile**:  
+React, Next.js, React Native, Expo, SwiftUI, UIKit, StoreKit, AVFoundation, Jetpack Compose, Flutter
 
-**Developer Tools**:  
-Claude Code, OpenAI Codex, Git, GitHub, GitLab, DevOps (OTel, dash0, Jenkins, GitHub Actions, CI/CD), AWS, Microsoft Azure, Firebase, Apple Developer Portal (including App Store Connect), Google Play Console, Docker, Kubernetes, Nginx, Redis, Twilio, Flyway, Matrix Synapse, Swagger, Postman, MongoDB, MySQL, PostgreSQL, Oracle SQL, NoSQL, Jira, Confluence, GitHub Issues, DBeaver, Jupyter, OpenGL, Lombok, Vim, PowerShell, Minitab, ETL, Power BI, Tableau, Crystal Reports, Google Sheets, MS Visio
+**Backend/Cloud**:  
+FastAPI, Node.js, Spring Boot, Django, RESTful APIs, AWS, Microsoft Azure, Docker, Kubernetes, Nginx, Twilio
 
-**IDEs**:  
-Cursor, Microsoft Visual Studio Code, Xcode, Android Studio, JetBrains IntelliJ IDEA, PyCharm, Eclipse
+**Data/DevOps**:  
+MongoDB, PostgreSQL, MySQL, Redis, Elasticsearch, Firebase, Git, GitHub Actions, Flyway, Jest, Pytest, Playwright
 
-**Operating Systems**:  
-macOS, iOS, Android, Windows, Linux, and Unix
+**AI/Agents**:  
+Claude Code, OpenAI Codex, Cursor, Agentic AI, Multi-Agent Orchestration, Realtime Voice Agents (Speech-to-Speech), ReAct Agents, RAG, Prompt Engineering, LLM Tool Use/Function Calling, Multi-Provider Failover
